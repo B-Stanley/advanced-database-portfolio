@@ -35,6 +35,8 @@ advanced-database-portfolio/
 ├── portfolio-3-transactions-concurrency/
 │   -README.md
 │   -transactions.sql
+|   -sessionA.sql
+|   -sessionB.sql
 │
 ├── portfolio-4-nosql/
 │   -README.md
