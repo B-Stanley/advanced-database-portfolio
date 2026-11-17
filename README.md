@@ -44,7 +44,6 @@ advanced-database-portfolio/
 │
 ├── portfolio-5-distributed-cloud/
 │   -README.md
-│   -architecture.md
 │
 └── README.md
 
